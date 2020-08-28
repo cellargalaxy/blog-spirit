@@ -84,11 +84,12 @@
     "brandInterval": 10000,
     "brands": [
       {
-        "imageUrl": "https://i.loli.net/2020/01/21/mMEAnwY5XPC2pFb.jpg",
+        "imageUrl": "https://i.loli.net/2020/08/29/nILVtGCDZcXaY3w.png",
         "title": "警告",
         "texts": [
           "文章内容会毫无预警的剧透",
-          "都是一家之言，不喜欢请按Ctrl+W"
+          "都是一家之言，不喜欢请按Ctrl+W",
+          "在虚构的故事当中寻求真实感的人脑袋一定有问题"
         ]
       }
     ],
