@@ -32,3 +32,4 @@
 
 ![mpv-shot0019.jpg.JPEG](/file/blog/spirit/響け！ユーフォニアム/S1/OP/20200830/mpv-shot0019.jpg.JPEG)
 > 三香下面就是阿久、小绿和叶月三人
+> 歌词里`向着广阔天空启程`，对应这个爬坡
