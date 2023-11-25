@@ -1,3 +1,13 @@
+---
+title: 響け！ユーフォニアム-S1-OP
+date: 2020-08-30
+math: true
+mermaid: true
+sticky: 0
+category: 響け！ユーフォニアム
+tags:
+---
+
 > 五点钟是北宇治的放学时间吗？下雨、红灯、限速、禁止绕路（？）。
 ![mpv-shot0007.jpg.JPEG](https://filebed.cellargalaxy.workers.dev/blog/spirit/響け！ユーフォニアム/S1/OP/20200830/mpv-shot0007.jpg.JPEG)
 

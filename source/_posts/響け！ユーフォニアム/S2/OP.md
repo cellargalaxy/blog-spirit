@@ -1,3 +1,13 @@
+---
+title: 響け！ユーフォニアム-S2-OP
+date: 2020-09-09
+math: true
+mermaid: true
+sticky: 0
+category: 響け！ユーフォニアム
+tags:
+---
+
 > 泷老师吃三文治的简朴一餐
 ![mpv-shot0001.jpg.JPEG](https://filebed.cellargalaxy.workers.dev/blog/spirit/響け！ユーフォニアム/S2/OP/20200909/mpv-shot0001.jpg.JPEG)  
 

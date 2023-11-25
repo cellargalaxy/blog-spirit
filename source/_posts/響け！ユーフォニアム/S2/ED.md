@@ -1,3 +1,13 @@
+---
+title: 響け！ユーフォニアム-S2-ED
+date: 2020-09-09
+math: true
+mermaid: true
+sticky: 0
+category: 響け！ユーフォニアム
+tags:
+---
+
 > 主角四人组，以及四人组的乐器草栽
 ![mpv-shot0082.jpg.JPEG](https://filebed.cellargalaxy.workers.dev/blog/spirit/響け！ユーフォニアム/S2/ED/20200912/mpv-shot0082.jpg.JPEG)
 
